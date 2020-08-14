@@ -1,1 +1,3 @@
-console.log('Hello SPA');
+import router from './routes';
+
+window.addEventListener('load', router);

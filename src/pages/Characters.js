@@ -14,7 +14,7 @@ const Characters = () => {
         <h3>Ultima Ubicación:</h3>
       </article>
     </div>
-  `
+  `;
   return view;
 }
 
